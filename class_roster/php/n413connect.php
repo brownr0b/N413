@@ -17,10 +17,12 @@
 
 ////////////////////// web-4 method /////////////////////
 
+/// I don't have a web-4 server so this method won't work ///
+
 //	$dbhost = 'localhost';
-//	$dbuser = '<your CAS user name>';
-//	$dbpwd  = '<your CAS user name>';
-//	$dbname = '<your CAS user name>_db';
+//	$dbuser = 'brownrob';
+//	$dbpwd  = 'brownrob';
+//	$dbname = 'brownrob_db';
 //
 //	$link = mysqli_connect($dbhost, $dbuser, $dbpwd, $dbname);
 //
