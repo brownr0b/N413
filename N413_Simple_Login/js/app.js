@@ -12,8 +12,6 @@ $(document).ready(function(){
         $(".greeting").html("Good Evening!")
     }
 
-
-
     $(".form").submit(function(){
         event.preventDefault();
 
@@ -103,7 +101,6 @@ $(document).ready(function(){
                 }else{
                     $("#result").css("background", "linear-gradient(45deg, #24c6dc, #514a9d)")
                 }
-
                 //assigns the value of the wind direction from the API to a cardinal direction
                 var wind = data.wind.deg;
                 if(wind >= 0 && wind <= 11.25){

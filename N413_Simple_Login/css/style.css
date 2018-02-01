@@ -60,13 +60,13 @@ html, body{
     color: white;
 }
 
-#nav a div{
-    color: white;
-    width: 100%;
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: stretch;
+#nav a:hover{
+    color: rgba(255,255,255,0.5);
+    transition: color .3s;
+}
+
+.fa-sign-out-alt{
+    padding-right: 2px;
 }
 
 #home{
@@ -87,7 +87,7 @@ html, body{
 
 #home:hover{
     background: rgba(255,255,255,0.5);
-    transition: background .5s, border .3s;
+    transition: background .3s;
 }
 
 

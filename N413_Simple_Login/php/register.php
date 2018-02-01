@@ -3,6 +3,7 @@ include("n413connect.php");
 
 session_start();
 $_SESSION["user_id"] = 0;
+$_SESSION["username"] = "";
 
 $username = "";
 if(isset($_REQUEST["username"])){
@@ -32,6 +33,7 @@ if(mysqli_num_rows($result) == 0){
 	if(mysqli_affected_rows($link) == 1){
      	$user_id = mysqli_insert_id($link);
      	$_SESSION["user_id"] = $user_id;
+        $_SESSION["username"] = $username;
 	}
 }
 

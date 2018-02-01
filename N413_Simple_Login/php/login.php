@@ -3,6 +3,7 @@ include("n413connect.php");
 
 session_start();
 $_SESSION["user_id"] = 0;
+$_SESSION["username"] = "";
 
 $username = "";
 if(isset($_REQUEST["username"])){
@@ -29,6 +30,7 @@ if(mysqli_num_rows($result) == 1){
      $row = mysqli_fetch_array($result, MYSQLI_BOTH);
      $user_id = $row["id"];
      $_SESSION["user_id"] = $user_id;
+     $_SESSION["username"] = $username;
 }
 
 if ($_SESSION["user_id"] > 0){
