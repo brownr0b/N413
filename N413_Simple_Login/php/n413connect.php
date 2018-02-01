@@ -14,9 +14,9 @@
 ////////////////////// mysqli method /////////////////////
 
 	$dbhost = 'localhost';
-	$dbuser = 'root';
-	$dbpwd  = 'root';
-	$dbname = 'n413_simple_login';
+	$dbuser = 'brownrob';
+	$dbpwd  = 'brownrob';
+	$dbname = 'brownrob_db';
 	
 	$link = mysqli_connect($dbhost, $dbuser, $dbpwd, $dbname);
 
