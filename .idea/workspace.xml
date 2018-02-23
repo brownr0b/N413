@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="349c05c3-e3b2-4ce6-a602-ef1d828c7f36" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/N413_CodeIgniter" afterPath="$PROJECT_DIR$/N413_CodeIgniter" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,107 +12,58 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/N413_CodeIgniter/composer.json</pharConfigPath>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="registration.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/N413_AdvLogin/advLogin4/registration.php">
+      <file leaf-file-name="country.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/N413_Countries/country.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="40" lean-forward="false" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="n413connect.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/N413_AdvLogin/advLogin4/php/n413connect.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="26" column="2" lean-forward="false" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reset.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/N413_AdvLogin/advLogin4/php/reset.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="689">
-              <caret line="67" column="4" lean-forward="false" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
+            <state relative-caret-position="463">
+              <caret line="194" column="18" lean-forward="true" selection-start-line="194" selection-start-column="18" selection-end-line="194" selection-end-column="18" />
               <folding>
-                <marker date="1518749817694" expanded="true" signature="781:841" ph="SELECT id FR... adv_users" />
-                <marker date="1518749817694" expanded="true" signature="1046:1180" ph="INSERT INTO `password_reset_log`... " />
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#1;n#DOCTYPE#0;n#!!top" expanded="true" />
+                <marker date="1519358617248" expanded="true" signature="49:124" ph="SELECT id, c... countries" />
+                <marker date="1519358617248" expanded="true" signature="7240:8144" ph="..." />
+                <marker date="1519358617248" expanded="true" signature="7335:7480" ph="..." />
+                <marker date="1519358617248" expanded="true" signature="7335:7513" ph="..." />
+                <marker date="1519358617248" expanded="true" signature="7335:7554" ph="..." />
+                <marker date="1519358617248" expanded="true" signature="7580:7779" ph="..." />
+                <marker date="1519358617248" expanded="false" signature="7746:7766" ph="..." />
+                <marker date="1519358617248" expanded="true" signature="7936:8135" ph="..." />
+                <marker date="1519358617248" expanded="true" signature="8084:8099" ph="..." />
+                <marker date="1519358617248" expanded="true" signature="8440:9682" ph="..." />
+                <marker date="1519358617248" expanded="true" signature="8493:9642" ph="..." />
+                <marker date="1519358617248" expanded="true" signature="8533:9599" ph="..." />
+                <marker date="1519358617248" expanded="true" signature="8574:8821" ph="..." />
+                <marker date="1519358617248" expanded="true" signature="8860:9558" ph="..." />
+                <marker date="1519358617248" expanded="true" signature="8999:9537" ph="..." />
+                <marker date="1519358617248" expanded="true" signature="9044:9251" ph="..." />
+                <marker date="1519358617248" expanded="true" signature="9163:9187" ph="..." />
+                <marker date="1519358617248" expanded="true" signature="9188:9224" ph="..." />
+                <marker date="1519358617248" expanded="true" signature="9285:9301" ph="..." />
+                <marker date="1519358617248" expanded="true" signature="9302:9506" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new_password.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/N413_AdvLogin/advLogin4/php/new_password.php">
+      <file leaf-file-name="n413connect.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/N413_Countries/php/n413connect.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-              <folding>
-                <marker date="1517508641000" expanded="true" signature="960:1035" ph="UPDATE adv_users... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reset_password.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/N413_AdvLogin/advLogin4/reset_password.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="103" column="29" lean-forward="false" selection-start-line="103" selection-start-column="29" selection-end-line="103" selection-end-column="40" />
-              <folding>
-                <marker date="1518749897607" expanded="true" signature="361:447" ph="SELECT user_... " />
-                <marker date="1518749897607" expanded="false" signature="924:992" ph="..." />
-                <marker date="1518749897607" expanded="true" signature="993:1099" ph="..." />
-                <marker date="1518749897607" expanded="true" signature="1417:2402" ph="..." />
-                <marker date="1518749897607" expanded="true" signature="1442:2374" ph="..." />
-                <marker date="1518749897607" expanded="true" signature="1473:2341" ph="..." />
-                <marker date="1518749897607" expanded="false" signature="1509:1521" ph="..." />
-                <marker date="1518749897607" expanded="true" signature="1522:1988" ph="..." />
-                <marker date="1518749897607" expanded="true" signature="1586:1946" ph="..." />
-                <marker date="1518749897607" expanded="true" signature="1701:1908" ph="..." />
-                <marker date="1518749897607" expanded="false" signature="1857:1884" ph="..." />
-                <marker date="1518749897607" expanded="true" signature="2041:2293" ph="..." />
-                <marker date="1518749897607" expanded="true" signature="2073:2248" ph="..." />
-                <marker date="1518749897607" expanded="true" signature="2198:2225" ph="..." />
-                <marker date="1518749897607" expanded="false" signature="2533:2601" ph="..." />
-                <marker date="1518749897607" expanded="true" signature="2602:2709" ph="..." />
-                <marker date="1518749897607" expanded="false" signature="2832:2900" ph="..." />
-                <marker date="1518749897607" expanded="true" signature="2901:3009" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="logout.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/N413_AdvLogin/advLogin4/logout.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="31" column="40" lean-forward="false" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+            <state relative-caret-position="170">
+              <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login_form.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/N413_AdvLogin/advLogin4/login_form.php">
+      <file leaf-file-name="n413_countries.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/N413_Countries/css/n413_countries.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="40" lean-forward="false" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="content.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/N413_AdvLogin/advLogin4/content.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="60" column="43" lean-forward="false" selection-start-line="60" selection-start-column="43" selection-end-line="60" selection-end-column="43" />
+            <state relative-caret-position="187">
+              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -128,23 +80,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>inverse</find>
-      <find>commen</find>
-      <find>label</find>
-      <find>roster</find>
-      <find>studen</find>
-      <find>comment</find>
-      <find>users</find>
-      <find>user</find>
-      <find>li</find>
-      <find>LInav</find>
-      <find>log_in</find>
-      <find>.php</find>
-      <find>submit</find>
-      <find>pointer</find>
-      <find>nav</find>
-      <find>simple</find>
-      <find>logged</find>
       <find>greet</find>
       <find>greeting</find>
       <find>php</find>
@@ -157,6 +92,24 @@
       <find>log</find>
       <find>rsc</find>
       <find>rscom</find>
+      <find>apps</find>
+      <find>font</find>
+      <find>&lt;span</find>
+      <find>0, 0,</find>
+      <find>comment</find>
+      <find>tooltip</find>
+      <find>tool</find>
+      <find>toolt</find>
+      <find>subs</find>
+      <find>input</find>
+      <find>xs-2</find>
+      <find>md-6</find>
+      <find>float</find>
+      <find>float: right</find>
+      <find>color</find>
+      <find>tt-suggestion</find>
+      <find>tt-selectab</find>
+      <find>pull</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -165,13 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/roster4.php" />
-        <option value="$PROJECT_DIR$/php/set_attendance.php" />
-        <option value="$PROJECT_DIR$/roster5.php" />
-        <option value="$PROJECT_DIR$/css/n413_roster.css" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/php/n413connect.php" />
-        <option value="$PROJECT_DIR$/class_roster/php/n413connect.php" />
         <option value="$PROJECT_DIR$/N413_Contacts/css/n413_contact.css" />
         <option value="$PROJECT_DIR$/N413_Contacts/php/n413connect.php" />
         <option value="$PROJECT_DIR$/N413_Contacts/get_contacts.php" />
@@ -189,7 +135,6 @@
         <option value="$PROJECT_DIR$/weather/results.html" />
         <option value="$PROJECT_DIR$/weather/city/index.html" />
         <option value="$PROJECT_DIR$/weather/index.css" />
-        <option value="$PROJECT_DIR$/weather/js/app2.js" />
         <option value="$PROJECT_DIR$/weather/city.html" />
         <option value="$PROJECT_DIR$/weather/css/city.css" />
         <option value="$PROJECT_DIR$/weather/css/index.css" />
@@ -213,6 +158,17 @@
         <option value="$PROJECT_DIR$/N413_AdvLogin/advLogin4/logout.php" />
         <option value="$PROJECT_DIR$/N413_AdvLogin/advLogin4/login_form.php" />
         <option value="$PROJECT_DIR$/N413_AdvLogin/advLogin4/registration.php" />
+        <option value="$PROJECT_DIR$/weather/js/app2.js" />
+        <option value="$PROJECT_DIR$/N413_Countries-master/php/n413connect.php" />
+        <option value="$PROJECT_DIR$/N413_Countries-master/css/n413_roster.css" />
+        <option value="$PROJECT_DIR$/N413_Countries-master/php/set_date.php" />
+        <option value="$PROJECT_DIR$/N413_Countries-master/php/set_comment.php" />
+        <option value="$PROJECT_DIR$/N413_Countries/countries.sql" />
+        <option value="$PROJECT_DIR$/N413_Countries/php/set_comment.php" />
+        <option value="$PROJECT_DIR$/N413_Countries/php/set_date.php" />
+        <option value="$PROJECT_DIR$/N413_Countries/css/n413_countries.css" />
+        <option value="$PROJECT_DIR$/N413_Countries/country.php" />
+        <option value="$PROJECT_DIR$/N413_Countries/php/n413connect.php" />
       </list>
     </option>
   </component>
@@ -223,7 +179,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="974" />
@@ -252,6 +208,17 @@
             <path>
               <item name="N413" type="b2602c69:ProjectViewProjectNode" />
               <item name="N413" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="N413" type="b2602c69:ProjectViewProjectNode" />
+              <item name="N413" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="N413_Countries" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="N413" type="b2602c69:ProjectViewProjectNode" />
+              <item name="N413" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="N413_Countries" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="php" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -315,17 +282,21 @@
       <workItem from="1517599817129" duration="127000" />
       <workItem from="1518096069616" duration="501000" />
       <workItem from="1518096582346" duration="149000" />
-      <workItem from="1518713390100" duration="29366000" />
+      <workItem from="1518713390100" duration="30511000" />
+      <workItem from="1519312581150" duration="598000" />
+      <workItem from="1519314237004" duration="1053000" />
+      <workItem from="1519351728344" duration="6585000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61261000" />
+    <option name="totallyTimeSpent" value="70642000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12540022" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12059765" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -358,182 +329,12 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/N413_Simple_Login/simple_login.php" />
-    <entry file="file://$PROJECT_DIR$/N413_Contacts/php/n413connect.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="2" lean-forward="false" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/N413_Simple_Login/register.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="49" lean-forward="false" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/N413_Simple_Login/logout.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/N413_Simple_Login/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="92" lean-forward="false" selection-start-line="7" selection-start-column="92" selection-end-line="7" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/N413_Simple_Login/php/n413connect.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/N413_Simple_Login/php/register.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="42" lean-forward="false" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/N413_Simple_Login/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/N413_Simple_Login/php/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/N413_Simple_Login/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="622">
-          <caret line="65" column="104" lean-forward="false" selection-start-line="65" selection-start-column="104" selection-end-line="65" selection-end-column="104" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/N413_Simple_Login/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="68" column="23" lean-forward="false" selection-start-line="68" selection-start-column="23" selection-end-line="68" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/N413_AdvLogin/N413_AdvLogin/password_reset_log.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/N413_AdvLogin/N413_AdvLogin/adv_users.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-310">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/N413_AdvLogin/N413_AdvLogin/advLogin4/registration.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/N413_AdvLogin/N413_AdvLogin/advLogin4/php/new_password.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/N413_AdvLogin/N413_AdvLogin/advLogin4/php/n413connect.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="26" column="2" lean-forward="true" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/N413_AdvLogin/N413_AdvLogin/advLogin4/php/register.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/N413_AdvLogin/N413_AdvLogin/advLogin4/php/reset.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="9" column="52" lean-forward="true" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weather/results.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weather/city/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weather/city.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="14" column="70" lean-forward="false" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/weather/results.html" />
+    <entry file="file://$PROJECT_DIR$/weather/city/index.html" />
     <entry file="file://$PROJECT_DIR$/weather/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weather/css/city.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="94" column="1" lean-forward="false" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weather/js/app2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="62" column="17" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="62" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weather/js/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="151" column="17" lean-forward="false" selection-start-line="151" selection-start-column="17" selection-end-line="151" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -541,7 +342,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -549,7 +349,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="281">
           <caret line="50" column="74" lean-forward="false" selection-start-line="50" selection-start-column="74" selection-end-line="50" selection-end-column="74" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -557,7 +356,167 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="452">
           <caret line="79" column="23" lean-forward="false" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeIgniter-3.1.7/application/config/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="90" column="2" lean-forward="true" selection-start-line="90" selection-start-column="2" selection-end-line="90" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeIgniter-3.1.7/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="80" column="19" lean-forward="false" selection-start-line="80" selection-start-column="19" selection-end-line="80" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeIgniter-3.1.7/assets/bs/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeIgniter-3.1.7/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeIgniter-3.1.7/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeIgniter-3.1.7/application/controllers/Simpleview.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeIgniter-3.1.7/application/controllers/Welcome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="56" lean-forward="false" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeIgniter-3.1.7/application/views/welcome_message.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeIgniter-3.1.7/application/models/Simple_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeIgniter-3.1.7/application/views/simple_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="39" lean-forward="false" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeIgniter-3.1.7/application/views/bs_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/N413_AdvLogin/password_reset_log.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/N413_AdvLogin/adv_users.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-94">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/N413_AdvLogin/advLogin4/php/n413connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="26" column="2" lean-forward="false" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/N413_AdvLogin/advLogin4/php/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1253">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/N413_AdvLogin/advLogin4/php/new_password.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/N413_AdvLogin/advLogin4/php/reset.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="67" column="4" lean-forward="false" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/N413_AdvLogin/advLogin4/reset_password.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1751">
+          <caret line="103" column="29" lean-forward="false" selection-start-line="103" selection-start-column="29" selection-end-line="103" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/N413_AdvLogin/advLogin4/registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="40" lean-forward="false" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/N413_AdvLogin/advLogin4/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="40" lean-forward="false" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/N413_AdvLogin/advLogin4/login_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="40" lean-forward="false" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/N413_AdvLogin/advLogin4/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="53" column="62" lean-forward="true" selection-start-line="53" selection-start-column="62" selection-end-line="53" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weather/css/city.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="94" column="1" lean-forward="false" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -569,212 +528,198 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeIgniter-3.1.7/application/config/autoload.php">
+    <entry file="file://$PROJECT_DIR$/weather/city.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="90" column="2" lean-forward="true" selection-start-line="90" selection-start-column="2" selection-end-line="90" selection-end-column="2" />
+        <state relative-caret-position="238">
+          <caret line="14" column="70" lean-forward="false" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeIgniter-3.1.7/application/config/database.php">
+    <entry file="file://$PROJECT_DIR$/weather/js/app2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="80" column="19" lean-forward="false" selection-start-line="80" selection-start-column="19" selection-end-line="80" selection-end-column="19" />
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeIgniter-3.1.7/assets/bs/js/npm.js">
+    <entry file="file://$PROJECT_DIR$/weather/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="128" column="24" lean-forward="false" selection-start-line="128" selection-start-column="24" selection-end-line="134" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/N413_Countries-master/country5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1544">
+          <caret line="101" column="30" lean-forward="true" selection-start-line="101" selection-start-column="30" selection-end-line="101" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/N413_Countries-master/php/n413connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/N413_Countries-master/css/n413_roster.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/N413_Countries-master/php/set_comment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/N413_Countries-master/php/set_date.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/N413_Countries/countries.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/N413_Countries/php/set_comment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="51" lean-forward="false" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+          <folding>
+            <marker date="1519355350854" expanded="true" signature="384:451" ph="UPDATE countries... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/N413_Countries/php/set_date.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="2" lean-forward="true" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+          <folding>
+            <marker date="1519355350893" expanded="true" signature="420:493" ph="UPDATE countries... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/N413_Countries/css/bootstrap-datetimepicker.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="39" column="33" lean-forward="false" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/N413_Countries/js/bootstrap3typeahead.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="457" lean-forward="false" selection-start-line="0" selection-start-column="457" selection-end-line="0" selection-end-column="457" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeIgniter-3.1.7/.gitignore">
+    <entry file="file://$PROJECT_DIR$/N413_Countries/js/bootstrap-datepicker.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+        <state relative-caret-position="204">
+          <caret line="12" column="49" lean-forward="false" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeIgniter-3.1.7/application/config/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeIgniter-3.1.7/application/controllers/Simpleview.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeIgniter-3.1.7/application/controllers/Welcome.php">
+    <entry file="file://$PROJECT_DIR$/N413_Countries/js/bootstrap-datetimepicker.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" column="56" lean-forward="false" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+          <caret line="0" column="4458" lean-forward="false" selection-start-line="0" selection-start-column="4451" selection-end-line="0" selection-end-column="4458" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeIgniter-3.1.7/application/views/welcome_message.php">
+    <entry file="file://$PROJECT_DIR$/N413_Countries/js/moment.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="17">
+          <caret line="0" column="295" lean-forward="false" selection-start-line="0" selection-start-column="295" selection-end-line="0" selection-end-column="295" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeIgniter-3.1.7/application/models/Simple_model.php">
+    <entry file="file://$PROJECT_DIR$/N413_Countries/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        <state relative-caret-position="281">
+          <caret line="3268" column="16" lean-forward="false" selection-start-line="3268" selection-start-column="16" selection-end-line="3268" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/N413_Countries/js/typeahead.bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="1075" column="36" lean-forward="false" selection-start-line="1075" selection-start-column="25" selection-end-line="1075" selection-end-column="36" />
           <folding>
-            <marker date="1518746776484" expanded="true" signature="222:244" ph="SELECT * fro... advanced" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeIgniter-3.1.7/application/views/simple_view.php">
+    <entry file="file://$PROJECT_DIR$/N413_Countries/css/n413_countries.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="39" lean-forward="false" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeIgniter-3.1.7/application/views/bs_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="39" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/N413_AdvLogin/password_reset_log.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="187">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/N413_AdvLogin/adv_users.sql">
+    <entry file="file://$PROJECT_DIR$/N413_Countries/country.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-94">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/N413_AdvLogin/advLogin4/php/n413connect.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="26" column="2" lean-forward="false" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/N413_AdvLogin/advLogin4/php/register.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1253">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="463">
+          <caret line="194" column="18" lean-forward="true" selection-start-line="194" selection-start-column="18" selection-end-line="194" selection-end-column="18" />
           <folding>
-            <marker date="1517508641000" expanded="true" signature="2112:2173" ph="SELECT id FR... adv_users" />
-            <marker date="1517508641000" expanded="true" signature="2339:2398" ph="SELECT email... adv_users" />
-            <marker date="1517508641000" expanded="true" signature="2529:2659" ph="INSERT INTO adv_users... " />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#1;n#DOCTYPE#0;n#!!top" expanded="true" />
+            <marker date="1519358617248" expanded="true" signature="49:124" ph="SELECT id, c... countries" />
+            <marker date="1519358617248" expanded="true" signature="7240:8144" ph="..." />
+            <marker date="1519358617248" expanded="true" signature="7335:7480" ph="..." />
+            <marker date="1519358617248" expanded="true" signature="7335:7513" ph="..." />
+            <marker date="1519358617248" expanded="true" signature="7335:7554" ph="..." />
+            <marker date="1519358617248" expanded="true" signature="7580:7779" ph="..." />
+            <marker date="1519358617248" expanded="false" signature="7746:7766" ph="..." />
+            <marker date="1519358617248" expanded="true" signature="7936:8135" ph="..." />
+            <marker date="1519358617248" expanded="true" signature="8084:8099" ph="..." />
+            <marker date="1519358617248" expanded="true" signature="8440:9682" ph="..." />
+            <marker date="1519358617248" expanded="true" signature="8493:9642" ph="..." />
+            <marker date="1519358617248" expanded="true" signature="8533:9599" ph="..." />
+            <marker date="1519358617248" expanded="true" signature="8574:8821" ph="..." />
+            <marker date="1519358617248" expanded="true" signature="8860:9558" ph="..." />
+            <marker date="1519358617248" expanded="true" signature="8999:9537" ph="..." />
+            <marker date="1519358617248" expanded="true" signature="9044:9251" ph="..." />
+            <marker date="1519358617248" expanded="true" signature="9163:9187" ph="..." />
+            <marker date="1519358617248" expanded="true" signature="9188:9224" ph="..." />
+            <marker date="1519358617248" expanded="true" signature="9285:9301" ph="..." />
+            <marker date="1519358617248" expanded="true" signature="9302:9506" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/N413_AdvLogin/advLogin4/php/new_password.php">
+    <entry file="file://$PROJECT_DIR$/N413_Countries/php/n413connect.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-          <folding>
-            <marker date="1517508641000" expanded="true" signature="960:1035" ph="UPDATE adv_users... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/N413_AdvLogin/advLogin4/php/reset.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="689">
-          <caret line="67" column="4" lean-forward="false" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
-          <folding>
-            <marker date="1518749817694" expanded="true" signature="781:841" ph="SELECT id FR... adv_users" />
-            <marker date="1518749817694" expanded="true" signature="1046:1180" ph="INSERT INTO `password_reset_log`... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/N413_AdvLogin/advLogin4/reset_password.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="103" column="29" lean-forward="false" selection-start-line="103" selection-start-column="29" selection-end-line="103" selection-end-column="40" />
-          <folding>
-            <marker date="1518749897607" expanded="true" signature="361:447" ph="SELECT user_... " />
-            <marker date="1518749897607" expanded="false" signature="924:992" ph="..." />
-            <marker date="1518749897607" expanded="true" signature="993:1099" ph="..." />
-            <marker date="1518749897607" expanded="true" signature="1417:2402" ph="..." />
-            <marker date="1518749897607" expanded="true" signature="1442:2374" ph="..." />
-            <marker date="1518749897607" expanded="true" signature="1473:2341" ph="..." />
-            <marker date="1518749897607" expanded="false" signature="1509:1521" ph="..." />
-            <marker date="1518749897607" expanded="true" signature="1522:1988" ph="..." />
-            <marker date="1518749897607" expanded="true" signature="1586:1946" ph="..." />
-            <marker date="1518749897607" expanded="true" signature="1701:1908" ph="..." />
-            <marker date="1518749897607" expanded="false" signature="1857:1884" ph="..." />
-            <marker date="1518749897607" expanded="true" signature="2041:2293" ph="..." />
-            <marker date="1518749897607" expanded="true" signature="2073:2248" ph="..." />
-            <marker date="1518749897607" expanded="true" signature="2198:2225" ph="..." />
-            <marker date="1518749897607" expanded="false" signature="2533:2601" ph="..." />
-            <marker date="1518749897607" expanded="true" signature="2602:2709" ph="..." />
-            <marker date="1518749897607" expanded="false" signature="2832:2900" ph="..." />
-            <marker date="1518749897607" expanded="true" signature="2901:3009" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/N413_AdvLogin/advLogin4/registration.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="40" lean-forward="false" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/N413_AdvLogin/advLogin4/logout.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="40" lean-forward="false" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/N413_AdvLogin/advLogin4/login_form.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="40" lean-forward="false" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/N413_AdvLogin/advLogin4/content.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="60" column="43" lean-forward="false" selection-start-line="60" selection-start-column="43" selection-end-line="60" selection-end-column="43" />
+        <state relative-caret-position="170">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
           <folding />
         </state>
       </provider>
