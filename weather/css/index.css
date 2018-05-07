@@ -129,3 +129,7 @@ button:focus{
 .sky{
     display: flex;
 }
+
+#geolocation{
+    margin-left: 20px;
+}

@@ -14,13 +14,13 @@
 ////////////////////// mysqli method /////////////////////
 
 //	$dbhost = 'localhost';
-//	$dbuser = 'brownrob';
-//	$dbpwd  = 'brownrob';
-//	$dbname = 'brownrob_db';
-$dbhost = 'localhost';
-$dbuser = 'root';
-$dbpwd  = 'root';
-$dbname = 'n413';
+//	$dbuser = 'root';
+//	$dbpwd  = 'root';
+//	$dbname = 'weather';
+    $dbhost = 'localhost';
+    $dbuser = 'brownrob';
+    $dbpwd  = 'brownrob';
+    $dbname = 'brownrob_db';
 	
 	$link = mysqli_connect($dbhost, $dbuser, $dbpwd, $dbname);
 

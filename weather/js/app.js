@@ -4,6 +4,29 @@ $(document).ready(function(){
     var city = "5368361,5128581,4140963";
     var fullURL = baseURL + city + "&units=imperial" + "&appid=" + apiKey;
 
+    $('#geolocation').click(function(){
+
+        $('#geolocation').html( "<i class='far fa-spinner fa-spin'></i>" );
+
+        if (navigator.geolocation) {
+            navigator.geolocation.getCurrentPosition(function(pos) {
+                var lat = pos.coords.latitude;
+                var lon =  pos.coords.longitude;
+                var geoURL = "http://api.openweathermap.org/data/2.5/weather?lat=" + lat + "&lon=" + lon + "&appid=" + apiKey;
+
+                $.ajax({
+                    url:geoURL,
+                    success: function(data){
+                        $('#geolocation').html( "<i class='far fa-location-arrow'></i>" );
+                        document.getElementById('place').value = data.name;
+                    }
+                })
+            });
+        } else {
+            console.log("Geolocation is not supported by this browser.");
+        }
+    });
+
 
     function weather(){
         $.ajax({
